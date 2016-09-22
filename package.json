@@ -1,0 +1,30 @@
+{
+  "name": "xm",
+  "version": "1.0.1",
+  "description": "yyqh",
+  "main": "index.js",
+  "bin": {
+    "xm": "bin/xm.js"
+  },
+  "dependencies": {
+    "colors": "0.6.2",
+    "less": "2.5.3",
+    "tar": "^2.2.1",
+    "uglify-js": "2.4.15",
+    "clean-css" : "3.3.6",
+    "less" : "^2.5.1",
+    "stylus": "^0.34.1",
+    "babel-core": "^5.8.34"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xm"
+  ],
+  "author": "yyqh",
+  "license": "ISC",
+  "devDependencies": {
+    "tar": "^2.2.1"
+  }
+}
